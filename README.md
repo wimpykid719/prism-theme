@@ -13,4 +13,11 @@ Next.jsのブログで使うコードシンタックスをコロコロ変えな�
 **参考にした色彩**
 ![prism_color_参考](https://user-images.githubusercontent.com/23703281/118113505-5e109e80-b421-11eb-8989-81de32b09cb8.jpeg)
 
+## play.css
+
+![スクリーンショット 2021-05-12 18 22 15](https://user-images.githubusercontent.com/23703281/118114692-e3e11980-b422-11eb-9c1e-a301c923dfd3.png)
+
+**参考にした配色**
+
+[![play-color](https://user-images.githubusercontent.com/23703281/118114756-fb200700-b422-11eb-9270-408298c5f65e.jpeg)](https://colorui.blogspot.com/2020/04/playroom-color-scheme.html)
 
